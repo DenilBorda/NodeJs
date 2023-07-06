@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongoose": "^7.3.0",
+    "morgan": "^1.10.0",
+    "nodemon": "^2.0.22"
+  },
+  "name": "express",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon ./server.js"
+  },
+  "author": "Denil",
+  "license": "MIT",
+  "description": "express learning"
+}
